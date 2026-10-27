@@ -8,7 +8,7 @@
 
 A high-performance, sequence-safe **Level-2 Limit Order Book (LOB) Reconstruction Engine** and **Cont's Order Flow Imbalance (OFI)** quantitative feature pipeline in pure Python.
 
-Designed for quantitative researchers, HFT practitioners, and algorithmic traders who require **mathematically rigorous microstructure features**, **zero-lookahead backtest replay**, and **public WebSocket market data feeds** (Binance USD-M Futures & BingX Perpetual Swaps).
+Designed for quantitative researchers, HFT practitioners, and algorithmic traders who require **mathematically rigorous microstructure features**, **zero-lookahead historical and live replay**, and **public WebSocket market data feeds** (Binance USD-M Futures & BingX Perpetual Swaps).
 
 > **Security & IP Guarantee**: This repository contains **zero private API keys, credentials, or proprietary trading alpha strategies**. It contains solely the open mathematical formulation of Rama Cont et al. (2014) and public market-data WebSocket synchronization engines.
 
