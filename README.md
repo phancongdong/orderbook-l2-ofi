@@ -1,5 +1,8 @@
 # Level-2 Limit Order Book Reconstruction & Cont's Order Flow Imbalance (OFI)
 
+> 💬 **Cộng đồng**: Trao đổi AI, Quant, Bot trade tại: https://t.me/donkquantlab
+
+
 [![Python Version](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Tests](https://img.shields.io/badge/tests-19%20passed-brightgreen.svg)]()
